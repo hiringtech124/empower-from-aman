@@ -1,0 +1,12 @@
+.bgImg {
+  background: url("./assets/passpor-bg.jpg") center center no-repeat;
+  background-size: cover;
+}
+
+@media (max-width: 768px) {
+  .bgImg {
+    background: url("./assets/passpor-bg.jpg") center center no-repeat;
+    background-size: cover;
+    height: 200%;
+  }
+}
